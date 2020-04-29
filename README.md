@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  React-Tracking is a simple React based application that helps you to track your order from the brazilian post offices.
+  React-Tracking is a simple React based application that helps you to track your packages from the brazilian post offices.
 </p>
 
 ## Tech
