@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  React-Tracking is a simple React based application that helps you to track your packages from the brazilian post offices.
+  React-Tracking is a React based application that helps you to track your packages from the brazilian post offices.
 </p>
 
 ## Tech
@@ -18,11 +18,11 @@
 - Saas
 
 ### Back-End
-- Run `yarn` in the `backend` folder;
+- Run `yarn` in the `backend` folder to install all dependencies;
 - Run `yarn start` to up the server;
 
 ### Front-End 
-- Run `yarn` in the `frontend` folder;
+- Run `yarn` in the `frontend` folder to install all dependencies;
 - Run `yarn start` to up the project;
 
 # License
