@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   React-Traking
-</p>
+</h1>
 
 <p align="center">
   React-Tracking is a React based application that helps you to track your packages from the brazilian post offices.
